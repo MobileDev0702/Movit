@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Moveit.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1D2B3F5220C45DAF90F3CE4945CD2094C0D32B4A</string>
+				<key>dateExpires</key>
+				<string>2021/3/23</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1D2B3F5220C45DAF90F3CE4945CD2094C0D32B4A</string>
+						<key>dateExpires</key>
+						<string>2021/3/23</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>iOSDropDown.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3488L6RZR3</string>
+						<key>name</key>
+						<string>MOEZ REBAI</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3488L6RZR3.fr.srsservices.movit</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3488L6RZR3</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>3488L6RZR3.fr.srsservices.movit</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Movit.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>def46110-8ca3-481c-8d05-3b000afe9cde</string>
+				<key>name</key>
+				<string>Movit</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3488L6RZR3</string>
+				<key>name</key>
+				<string>MOEZ REBAI</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
